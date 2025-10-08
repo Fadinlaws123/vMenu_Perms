@@ -9,8 +9,7 @@
 * _Original Script Links (UnModded)_
 1. _Badger_Discord_API_: [Link](https://forum.cfx.re/t/release-badger-discord-api/1698464)
 2. _DiscordAcePerms_: [Link](https://forum.cfx.re/t/discordaceperms-release/573044)
-3. _Discord_perms_: [Link](https://forum.cfx.re/t/discordroles-a-proper-attempt-this-time/1579427)
-4. _vMenu_: [Link](https://forum.cfx.re/t/vmenu/88868)
+3. _vMenu_: [Link](https://forum.cfx.re/t/vmenu/88868)
 
 * ***
 
@@ -38,7 +37,6 @@
 # Discord Related
 ensure Badger_Discord_API
 ensure DiscordAcePerms
-ensure discordroles
 ensure vMenu
 exec resources/vMenu/config/permissions.cfg # Directory your permissions.cfg for vMenu is located!
 ```
@@ -71,12 +69,6 @@ roleList = {
     {2389473248972334, "group.founder"}, -- Server Founder
 }
 ```
-
-* ***
-
-* _Discordperms_
-1. _Add your Bot_Token you used with Badger_Discord_API into Discordperms._
-2. _Add your guid_id that was put in Badger_Discord_API into Discordperms._
 
 * ***
 
