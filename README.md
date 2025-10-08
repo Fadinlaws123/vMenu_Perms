@@ -5,6 +5,10 @@
 
 * ***
 
+Notice: Before you get far into it, I want to say I am **NOT** the original creator for any scripts listed here. All I have done was make it so you have to just input ID data into DiscordAcePerms and essentially you'll be done with it. Now, with that being said of course you can modify anything you want, again it's not my resource nor server, I am just making it "easier" as you could say. 
+
+* ***
+
 # Main things needed:
 * _Original Script Links (UnModded)_
 1. _Badger_Discord_API_: [Link](https://forum.cfx.re/t/release-badger-discord-api/1698464)
